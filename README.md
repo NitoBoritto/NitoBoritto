@@ -7,7 +7,7 @@ Data Scientist
 Aspiring Data Scientist interested in building machine learning models that translate complex datasets into actionable business strategies. Combining statistical rigor and a focus on model-driven decision-making to improve forecasting accuracy and operational efficiency
 
 * 🌍  I'm based in Cairo, Egypt
-* 🖥️  See my portfolio at [My Portfolio](http://https://nitoboritto.lovable.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://nitoboritto.lovable.app/)
 * ✉️  You can contact me at [ahmedwalidinquiries@gmail.com](mailto:ahmedwalidinquiries@gmail.com)
 * 🧠  I'm currently learning Scikit-Learn
 * 💬  Ask me about Always excited to learn and collaborate on projects and ideas
