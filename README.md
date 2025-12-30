@@ -20,16 +20,25 @@ Aspiring Data Scientist interested in building machine learning models that tran
 
 <p align="left">
   <a href="https://www.github.com/NitoBoritto" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+    </picture>
   </a>
 
   <a href="https://www.linkedin.com/in/ahmed-walid-nito" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    </picture>
   </a>
 
   <a href="https://www.kaggle.com/ahmedemasha" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/NitoBoritto/YourRepoName/main/assets/kaggle.png" width="32" height="32" alt="Kaggle" title="Kaggle" />
+    <img src="https://raw.githubusercontent.com/NitoBoritto/NitoBoritto/main/assets/kaggle.svg" width="32" height="32" alt="Kaggle" title="Kaggle" />
   </a>
 </p>
+
 
 
