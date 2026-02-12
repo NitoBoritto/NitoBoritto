@@ -37,6 +37,10 @@ Aspiring **Data Scientist** skilled in **machine learning**, **statistical model
   <img src="https://img.shields.io/badge/Pandas-1.6.2-blue?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-1.26.0-blue?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-1.3.0-blue?logo=scikitlearn&logoColor=white&style=flat-square" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-2.0.3-eb8122?logo=xgboost&logoColor=white&style=flat-square" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-4.3.0-00ADEE?logo=lightgbm&logoColor=white&style=flat-square" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/Joblib-1.3.2-4184b2?logo=python&logoColor=white&style=flat-square" alt="Joblib"/>
+  <img src="https://img.shields.io/badge/Scikit--Optimize-0.9.0-orange?logo=scikitlearn&logoColor=white&style=flat-square" alt="Scikit-Optimize"/>
   <img src="https://img.shields.io/badge/Matplotlib-3.8.0-blue?logo=matplotlib&logoColor=white&style=flat-square" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-0.13.2-blue?logo=seaborn&logoColor=white&style=flat-square" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-5.17.0-blue?logo=plotly&logoColor=white&style=flat-square" alt="Plotly"/>
